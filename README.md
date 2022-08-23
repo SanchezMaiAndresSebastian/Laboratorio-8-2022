@@ -40,9 +40,7 @@ Andrés Sánchez
 - Diagramas eléctricos
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/1.png)
-###### _FIGURA 5_
-
-###### _FIGURA 2_
+###### _FIGURA 3_
 
 
 
@@ -66,7 +64,7 @@ Andrés Sánchez
 
 #### SIMULACIÓN
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/2.png)
-###### _FIGURA 5_
+###### _FIGURA 4_
 
 
 #### 3.1.2 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio
@@ -82,7 +80,7 @@ Andrés Sánchez
 ### 4.	RESPUESTAS A INTERROGANTES
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/4.png)
-###### _FIGURA 5_
+###### _FIGURA 6_
 
 
 ### 5. VIDEOS
