@@ -13,22 +13,24 @@ Andrés Sánchez
 
 **Principal**
 
- - Experimentar con los inductores y capacitores
+ - Experimentar con el osciloscopio
  
 **Específicos**
 
 - Medir la corriente alterna
-- Explicar la teoría que pasa a través de los Inductores y capacitores
+- Explicar El funcionamiento de las herramientas que utiliza el osciloscopio
 
 
 ### 2.	MARCO TEÓRICO
 
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/11.png) 
-
-![](https://unicrom.com/wp-content/uploads/valores_RMS_pico_promedio.png) 
+![](https://unicrom.com/wp-content/uploads/valor-rms-pico-promedio.png) 
 
 ###### _FIGURA 1_
+
+![](data:image/png;base64,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) 
+
+###### _FIGURA 2_
 
 
 
@@ -36,12 +38,7 @@ Andrés Sánchez
 ### 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
 - Diagramas eléctricos
-Circuito RC 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/2.png) 
 
-Circuito RL 
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5/blob/main/Fotos/4.png) 
 
 ###### _FIGURA 2_
 
@@ -53,116 +50,37 @@ Circuito RL
 | -------- | ----------- | 
 | 1 | Generador de señales | 
 | 1 | Osciloscopio |
+| 1 | MUltimetro Digital |
+| 1 | Resistencias de 1 kΩ |
+| 1 | Resistencias de 2.2 kΩ |
 | 1 | Protoboard |
-| 1 | Multímetro |
-| 1 | Cables conductores |
-| 2 | Resistencias de 100 Ω |
-| 2 | Bobinas 10 µF |
-| 2 | Capacitores 100 mH |
  
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
 
-#### 3.1 Circuito RC
+#### 3.1 Circuito 
 
-#### 3.1.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+#### 3.1.1 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
 #### SIMULACIÓN
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/20.jpeg)
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-01.png)
-###### _FIGURA 3_
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-02.png)
-###### _FIGURA 4_
+###### _FIGURA 5_
 
 
-#### 3.1.2 Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+#### 3.1.2 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio
 
 #### SIMULACIÓN
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/21.jpeg)
 ![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-03.png)
 ###### _FIGURA 5_
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-04.png)
-###### _FIGURA 6_
 
-#### 3.1.3 Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
-#### SIMULACIÓN
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-05.png)
-###### _FIGURA 7_
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-06.png)
-###### _FIGURA 8_
-
-#### 3.2 Circuito RL
-
-#### 3.2.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
-
-#### SIMULACIÓN
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-07.png)
-###### _FIGURA 9_
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-08.png)
-###### _FIGURA 10_
-
-#### 3.2.2 Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
-
-#### SIMULACIÓN
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-09.png)
-###### _FIGURA 11_
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-10.png)
-###### _FIGURA 12_
-
-#### 3.2.3 Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
-
-#### SIMULACIÓN
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-11.png)
-###### _FIGURA 13_
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-12.png)
-###### _FIGURA 14_
-
-#### Cálculos
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-1.png)
-###### _FIGURA 15_
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-2.png)
-###### _FIGURA 16_
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-3.png)
-###### _FIGURA 17_
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab7%20Fund%2C%20de%20circuitos%202022-4.png)
-###### _FIGURA 18_
 
  
 ### 4.	RESPUESTAS A INTERROGANTES
-Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
-#### Tabla 4.1
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/14.png)
-
-#### Tabla 4.2
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/15.png)
-#### 4.1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
-
-El capacitor se comporta como circuito abierto y la bobina como un cortocircuito
-
-#### 4.2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
-
-La bobina almacena corriente, mientras que el capacitor almacena voltaje.
-
-#### 4.3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
-
-Ocurriría lo mismo que se observó en la práctica, debido a que tiene las mismas características que se tiene en el inductor y el capacitor
-
-
-#### 4.4.- ¿Qué son los valores eficaces de voltaje y corriente?
-
-El valor eficaz es el equivalente en DC del valor pico en la corriente alterna, esto se obtiene dividiendo el valor pico por la raíz de 2.
-
+![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-03.png)
+###### _FIGURA 5_
 
 
 ### 5. VIDEOS
