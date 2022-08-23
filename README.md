@@ -91,7 +91,7 @@ https://youtu.be/kPd9c08WTrU
 
 - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
  - El osciloscopio es una herramienta que nos permite encontrar lo que son, el periodo, el V pico a pico, V pico, V rms; I pico, I Pico a pico, I rms; de una forma análoga, debido a que no es un resultado estrictamente exacto, no existe un mismo resultado en función del tiempo.
- _ El multímetro digital mide el valor de Vrms de a onda senoidal, por ende, no es lo mismo la lectura de la amplitud de voltaje pico que sale como output del osciloscopio.
+ - El multímetro digital mide el valor de Vrms de a onda senoidal, por ende, no es lo mismo la lectura de la amplitud de voltaje pico que sale como output del osciloscopio.
 
 
 ### 7.	BIBLIOGRAFÍA
