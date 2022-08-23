@@ -39,6 +39,8 @@ Andrés Sánchez
 
 - Diagramas eléctricos
 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/1.png)
+###### _FIGURA 5_
 
 ###### _FIGURA 2_
 
@@ -63,7 +65,7 @@ Andrés Sánchez
 #### 3.1.1 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
 #### SIMULACIÓN
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/20.jpeg)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/2.png)
 ###### _FIGURA 5_
 
 
@@ -71,7 +73,7 @@ Andrés Sánchez
 
 #### SIMULACIÓN
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-03.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/3.png)
 ###### _FIGURA 5_
 
 
@@ -79,7 +81,7 @@ Andrés Sánchez
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab-7/blob/main/Fotos/capacitoresrev-03.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/4.png)
 ###### _FIGURA 5_
 
 
